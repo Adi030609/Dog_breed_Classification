@@ -61,6 +61,10 @@ This is a well-structured Python script for classifying dog breeds using Efficie
 - Evaluates the model on the test data and prints the test loss and accuracy.
 
 **12. Predict Classes:**
+**Sample Output** 
+
+
+![Screenshot 2024-09-26 172841](https://github.com/user-attachments/assets/daf4032b-dacb-4ca3-a2b8-95425caa9042)
 
 - Predicts the class probabilities for each image in the test data.
 - Chooses the class with the highest probability as the predicted class.
